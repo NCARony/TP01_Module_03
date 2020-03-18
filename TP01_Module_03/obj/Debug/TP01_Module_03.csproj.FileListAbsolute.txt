@@ -1,0 +1,7 @@
+C:\Users\LorDNynK\source\repos\TP01_Module_03\TP01_Module_03\bin\Debug\TP01_Module_03.exe.config
+C:\Users\LorDNynK\source\repos\TP01_Module_03\TP01_Module_03\bin\Debug\TP01_Module_03.exe
+C:\Users\LorDNynK\source\repos\TP01_Module_03\TP01_Module_03\bin\Debug\TP01_Module_03.pdb
+C:\Users\LorDNynK\source\repos\TP01_Module_03\TP01_Module_03\obj\Debug\TP01_Module_03.csprojAssemblyReference.cache
+C:\Users\LorDNynK\source\repos\TP01_Module_03\TP01_Module_03\obj\Debug\TP01_Module_03.exe
+C:\Users\LorDNynK\source\repos\TP01_Module_03\TP01_Module_03\obj\Debug\TP01_Module_03.pdb
+C:\Users\LorDNynK\source\repos\TP01_Module_03\TP01_Module_03\obj\Debug\TP01_Module_03.csproj.CoreCompileInputs.cache
